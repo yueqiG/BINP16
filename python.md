@@ -1,6 +1,6 @@
-import tarfile
+## python 解压 tgz文件
 
-# python 解压 tgz文件
+import trafile
 
 tar = tarfile.open('source path')
 
